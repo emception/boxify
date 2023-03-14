@@ -1,7 +1,7 @@
 # `make-wasm-box`
 
 📦 Combine multiple WebAssembly binaries into a single bundle like BusyBox \
-🔀 Forked from [jprendes/emception]'s [`wasm-transform`] submodule
+🔀 Forked from [jprendes/emception]'s [`wasm-transform`] subproject
 
 <div align="center">
 
